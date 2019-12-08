@@ -1,5 +1,5 @@
 # Project_Hash_Table
-
+# You should also create venv and configurate the enviorment for correct working of program
 
 atomicwrites==1.3.0
 attrs==19.3.0
